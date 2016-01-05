@@ -21,7 +21,7 @@
         "title": "霸王别姬",
         "start": "",
         "link": "http://movie.douban.com/subject/1291546/",
-        "picUrl": "http://img3.douban.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
+        "picUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
     },
     {
         "title": "美丽人生 / La vita è bella",
@@ -45,7 +45,7 @@
         "title": "千与千寻 / 千と千尋の神隠し",
         "start": "",
         "link": "http://movie.douban.com/subject/1291561/",
-        "picUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
+        "picUrl": "http://img4.douban.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
     },
     {
         "title": "机器人总动员 / WALL·E",
@@ -147,6 +147,6 @@
         "title": "罗马假日 / Roman Holiday",
         "start": "",
         "link": "http://movie.douban.com/subject/1293839/",
-        "picUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173398296.jpg"
+        "picUrl": "http://img4.douban.com/view/movie_poster_cover/ipst/public/p2173398296.jpg"
     }
 ]

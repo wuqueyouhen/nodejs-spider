@@ -117,7 +117,8 @@ function downloadImg(imgDir, url) {
     
     //图片地址存在http与https两种协议
     //如果使用https
-    if (url.indexOf('https') != -1) {
+    //if (url.indexOf('https') != -1) {
+    if (url.charAt(4) === 's') {
         https.get(url, function (res) {
             var data = '';
 
